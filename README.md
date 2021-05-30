@@ -1,1 +1,1 @@
-<h2>Laravel-ecommerce-website</h2>
+<h1>laravel-ecommerce-website</h1>
